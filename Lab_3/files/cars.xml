@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Car>
+    <Passenger>
+        <type>Легковой</type>
+        <capacity>3</capacity>
+        <fuelConsumption>7.5</fuelConsumption>
+        <speed>214</speed>
+    </Passenger>
+    <Truck>
+        <type>Грузовой</type>
+        <capacity>8</capacity>
+        <fuelConsumption>15</fuelConsumption>
+        <speed>128</speed>
+    </Truck>
+</Car>
