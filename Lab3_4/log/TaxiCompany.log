@@ -1,0 +1,8 @@
+14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - Starting program
+14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - Company created
+14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - The cost calculation is completed
+14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - List is sorted
+14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - XML Serialized
+14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - XML Deserialized
+14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - JSON Serialized
+14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - JSON Deserialized

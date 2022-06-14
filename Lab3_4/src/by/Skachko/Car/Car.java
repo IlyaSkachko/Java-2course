@@ -1,6 +1,8 @@
 package by.Skachko.Car;
 
-public abstract class Car {
+import java.io.Serializable;
+
+public abstract class Car implements Serializable {
 
     private int price;
     private float fuelConsumption;
@@ -12,6 +14,7 @@ public abstract class Car {
         this.maxSpeed = maxSpeed;
     }
 
+    public Car() {}
     public int getPrice() {
         return price;
     }
@@ -22,6 +25,19 @@ public abstract class Car {
 
     public int getMaxSpeed() {
         return maxSpeed;
+    }
+
+
+    public void setPrice(int price) {
+        this.price = price;
+    }
+
+    public void setFuelConsumption(float fuelConsumption) {
+        this.fuelConsumption = fuelConsumption;
+    }
+
+    public void setMaxSpeed(int maxSpeed) {
+        this.maxSpeed = maxSpeed;
     }
 
     public abstract void Show();

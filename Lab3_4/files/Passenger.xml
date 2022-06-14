@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Passenger>
+    <price>6500</price>
+    <fuelConsumption>8.4</fuelConsumption>
+    <maxSpeed>175</maxSpeed>
+</Passenger>

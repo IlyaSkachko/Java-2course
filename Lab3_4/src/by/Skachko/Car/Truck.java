@@ -10,6 +10,8 @@ public class Truck extends Car{
         this.typeCar = TypeCar.TRUCK;
     }
 
+    public Truck() {}
+
     @Override
     public void Show() {
         System.out.println(
@@ -18,5 +20,13 @@ public class Truck extends Car{
                         "\nMaximum speed: " + getMaxSpeed() +
                         "\nType car: " + typeCar + "\n"
         );
+    }
+
+    public TypeCar getTypeCar() {
+        return typeCar;
+    }
+
+    public void setTypeCar(TypeCar typeCar) {
+        this.typeCar = typeCar;
     }
 }

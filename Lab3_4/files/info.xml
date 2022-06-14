@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="18.0.1.1" class="java.beans.XMLDecoder">
+ <object class="by.Skachko.Car.Passenger">
+  <void property="fuelConsumption">
+   <float>12.5</float>
+  </void>
+  <void property="maxSpeed">
+   <int>242</int>
+  </void>
+  <void property="price">
+   <int>10000</int>
+  </void>
+  <void property="typeCar">
+   <object class="java.lang.Enum" method="valueOf">
+    <class>by.Skachko.Car.TypeCar</class>
+    <string>PASSENGER</string>
+   </object>
+  </void>
+ </object>
+</java>

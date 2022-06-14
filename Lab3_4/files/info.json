@@ -1,0 +1,6 @@
+{
+  "typeCar": "PASSENGER",
+  "price": 4500,
+  "fuelConsumption": 6.7,
+  "maxSpeed": 212
+}

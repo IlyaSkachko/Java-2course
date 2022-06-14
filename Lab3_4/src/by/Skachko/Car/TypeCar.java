@@ -1,6 +1,6 @@
 package by.Skachko.Car;
 
 public enum TypeCar {
-    PASSENGER,
+     PASSENGER,
     TRUCK
 }
