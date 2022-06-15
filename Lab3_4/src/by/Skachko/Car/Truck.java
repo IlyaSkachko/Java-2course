@@ -12,6 +12,15 @@ public class Truck extends Car{
 
     public Truck() {}
 
+
+    public TypeCar getTypeCar() {
+        return typeCar;
+    }
+
+    public void setTypeCar(TypeCar typeCar) {
+        this.typeCar = typeCar;
+    }
+
     @Override
     public void Show() {
         System.out.println(
@@ -22,11 +31,11 @@ public class Truck extends Car{
         );
     }
 
-    public TypeCar getTypeCar() {
-        return typeCar;
-    }
-
-    public void setTypeCar(TypeCar typeCar) {
-        this.typeCar = typeCar;
+    @Override
+    public String toString() {
+        return  "Price: " + super.getPrice() +
+                "\nFuel consumption: " + super.getFuelConsumption() +
+                "\nMaximum speed: " + super.getMaxSpeed() +
+                "\nType car: " + typeCar +"\n\n";
     }
 }

@@ -1,8 +1,100 @@
-14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - Starting program
-14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - Company created
-14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - The cost calculation is completed
-14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - List is sorted
-14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - XML Serialized
-14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - XML Deserialized
-14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - JSON Serialized
-14.06.2022 21:37:30 [main] INFO  by.Skachko.Main.Main - JSON Deserialized
+15.06.2022 19:09:49 [main] INFO  by.Skachko.Main.Main - Starting program
+15.06.2022 19:09:49 [main] INFO  by.Skachko.Main.Main - Company created
+15.06.2022 19:09:49 [main] INFO  by.Skachko.Main.Main - The cost calculation is completed
+15.06.2022 19:09:49 [main] INFO  by.Skachko.Main.Main - List is sorted
+15.06.2022 19:09:49 [main] INFO  by.Skachko.Main.Main - XML Serialized
+15.06.2022 19:09:49 [main] INFO  by.Skachko.Main.Main - XML Deserialized
+15.06.2022 19:09:49 [main] INFO  by.Skachko.Main.Main - JSON Serialized
+15.06.2022 19:09:49 [main] INFO  by.Skachko.Main.Main - JSON Deserialized
+15.06.2022 19:09:49 [main] INFO  by.Skachko.Main.Main - Stream API
+15.06.2022 19:09:49 [main] INFO  by.Skachko.Main.Main - Finally block
+
+15.06.2022 19:27:41 [main] INFO  by.Skachko.Main.Main - Starting program
+15.06.2022 19:27:41 [main] INFO  by.Skachko.Main.Main - Company created
+15.06.2022 19:27:41 [main] INFO  by.Skachko.Main.Main - The cost calculation is completed
+15.06.2022 19:27:41 [main] INFO  by.Skachko.Main.Main - List is sorted
+15.06.2022 19:27:41 [main] INFO  by.Skachko.Main.Main - XML Serialized
+15.06.2022 19:27:41 [main] INFO  by.Skachko.Main.Main - XML Deserialized
+15.06.2022 19:27:42 [main] INFO  by.Skachko.Main.Main - JSON Serialized
+15.06.2022 19:27:42 [main] INFO  by.Skachko.Main.Main - JSON Deserialized
+15.06.2022 19:27:42 [main] INFO  by.Skachko.Main.Main - Stream API
+15.06.2022 19:27:42 [main] INFO  by.Skachko.Main.Main - Finally block
+
+15.06.2022 19:28:59 [main] INFO  by.Skachko.Main.Main - Starting program
+15.06.2022 19:28:59 [main] INFO  by.Skachko.Main.Main - Company created
+15.06.2022 19:28:59 [main] INFO  by.Skachko.Main.Main - The cost calculation is completed
+15.06.2022 19:28:59 [main] INFO  by.Skachko.Main.Main - List is sorted
+15.06.2022 19:28:59 [main] INFO  by.Skachko.Main.Main - XML Serialized
+15.06.2022 19:28:59 [main] INFO  by.Skachko.Main.Main - XML Deserialized
+15.06.2022 19:28:59 [main] INFO  by.Skachko.Main.Main - JSON Serialized
+15.06.2022 19:28:59 [main] INFO  by.Skachko.Main.Main - JSON Deserialized
+15.06.2022 19:28:59 [main] INFO  by.Skachko.Main.Main - Stream API
+15.06.2022 19:28:59 [main] INFO  by.Skachko.Main.Main - Finally block
+
+15.06.2022 19:29:23 [main] INFO  by.Skachko.Main.Main - Starting program
+15.06.2022 19:29:23 [main] INFO  by.Skachko.Main.Main - Company created
+15.06.2022 19:29:23 [main] INFO  by.Skachko.Main.Main - The cost calculation is completed
+15.06.2022 19:29:23 [main] INFO  by.Skachko.Main.Main - List is sorted
+15.06.2022 19:29:23 [main] INFO  by.Skachko.Main.Main - XML Serialized
+15.06.2022 19:29:23 [main] INFO  by.Skachko.Main.Main - XML Deserialized
+15.06.2022 19:29:23 [main] INFO  by.Skachko.Main.Main - JSON Serialized
+15.06.2022 19:29:23 [main] INFO  by.Skachko.Main.Main - JSON Deserialized
+15.06.2022 19:29:23 [main] INFO  by.Skachko.Main.Main - Stream API
+15.06.2022 19:29:23 [main] INFO  by.Skachko.Main.Main - Finally block
+
+15.06.2022 19:29:43 [main] INFO  by.Skachko.Main.Main - Starting program
+15.06.2022 19:29:43 [main] INFO  by.Skachko.Main.Main - Company created
+15.06.2022 19:29:43 [main] INFO  by.Skachko.Main.Main - The cost calculation is completed
+15.06.2022 19:29:43 [main] INFO  by.Skachko.Main.Main - List is sorted
+15.06.2022 19:29:43 [main] INFO  by.Skachko.Main.Main - XML Serialized
+15.06.2022 19:29:43 [main] INFO  by.Skachko.Main.Main - XML Deserialized
+15.06.2022 19:29:44 [main] INFO  by.Skachko.Main.Main - JSON Serialized
+15.06.2022 19:29:44 [main] INFO  by.Skachko.Main.Main - JSON Deserialized
+15.06.2022 19:29:44 [main] INFO  by.Skachko.Main.Main - Stream API
+15.06.2022 19:29:44 [main] INFO  by.Skachko.Main.Main - Finally block
+
+15.06.2022 19:30:24 [main] INFO  by.Skachko.Main.Main - Starting program
+15.06.2022 19:30:24 [main] INFO  by.Skachko.Main.Main - Company created
+15.06.2022 19:30:24 [main] INFO  by.Skachko.Main.Main - The cost calculation is completed
+15.06.2022 19:30:24 [main] INFO  by.Skachko.Main.Main - List is sorted
+15.06.2022 19:30:24 [main] INFO  by.Skachko.Main.Main - XML Serialized
+15.06.2022 19:30:24 [main] INFO  by.Skachko.Main.Main - XML Deserialized
+15.06.2022 19:30:24 [main] INFO  by.Skachko.Main.Main - JSON Serialized
+15.06.2022 19:30:24 [main] INFO  by.Skachko.Main.Main - JSON Deserialized
+15.06.2022 19:30:24 [main] INFO  by.Skachko.Main.Main - Stream API
+15.06.2022 19:30:24 [main] INFO  by.Skachko.Main.Main - Finally block
+
+15.06.2022 19:33:05 [main] INFO  by.Skachko.Main.Main - Starting program
+15.06.2022 19:33:05 [main] INFO  by.Skachko.Main.Main - Company created
+15.06.2022 19:33:05 [main] INFO  by.Skachko.Main.Main - The cost calculation is completed
+15.06.2022 19:33:05 [main] INFO  by.Skachko.Main.Main - List is sorted
+15.06.2022 19:33:05 [main] INFO  by.Skachko.Main.Main - XML Serialized
+15.06.2022 19:33:05 [main] INFO  by.Skachko.Main.Main - XML Deserialized
+15.06.2022 19:33:05 [main] INFO  by.Skachko.Main.Main - JSON Serialized
+15.06.2022 19:33:05 [main] INFO  by.Skachko.Main.Main - JSON Deserialized
+15.06.2022 19:33:05 [main] INFO  by.Skachko.Main.Main - Stream API
+15.06.2022 19:33:05 [main] INFO  by.Skachko.Main.Main - Finally block
+
+15.06.2022 19:35:39 [main] INFO  by.Skachko.Main.Main - Starting program
+15.06.2022 19:35:39 [main] INFO  by.Skachko.Main.Main - Company created
+15.06.2022 19:35:39 [main] INFO  by.Skachko.Main.Main - The cost calculation is completed
+15.06.2022 19:35:39 [main] INFO  by.Skachko.Main.Main - List is sorted
+15.06.2022 19:35:39 [main] INFO  by.Skachko.Main.Main - XML Serialized
+15.06.2022 19:35:39 [main] INFO  by.Skachko.Main.Main - XML Deserialized
+15.06.2022 19:35:39 [main] INFO  by.Skachko.Main.Main - JSON Serialized
+15.06.2022 19:35:39 [main] INFO  by.Skachko.Main.Main - JSON Deserialized
+15.06.2022 19:35:39 [main] INFO  by.Skachko.Main.Main - Stream API
+15.06.2022 19:35:39 [main] INFO  by.Skachko.Main.Main - Finally block
+
+15.06.2022 20:24:53 [main] INFO  by.Skachko.Main.Main - Starting program
+15.06.2022 20:24:53 [main] INFO  by.Skachko.Main.Main - Company created
+15.06.2022 20:24:53 [main] INFO  by.Skachko.Main.Main - The cost calculation is completed
+15.06.2022 20:24:53 [main] INFO  by.Skachko.Main.Main - List is sorted
+15.06.2022 20:24:53 [main] INFO  by.Skachko.Main.Main - XML Serialized
+15.06.2022 20:24:53 [main] INFO  by.Skachko.Main.Main - XML Deserialized
+15.06.2022 20:24:53 [main] INFO  by.Skachko.Main.Main - JSON Serialized
+15.06.2022 20:24:53 [main] INFO  by.Skachko.Main.Main - JSON Deserialized
+15.06.2022 20:24:53 [main] INFO  by.Skachko.Main.Main - Stream API
+15.06.2022 20:24:53 [main] INFO  by.Skachko.Main.Main - SAX
+15.06.2022 20:24:53 [main] INFO  by.Skachko.Main.Main - Finally block
+
